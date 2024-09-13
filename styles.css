@@ -1,0 +1,45 @@
+*{
+    border: 1px solid red;
+}
+
+h1{
+    background-color: green;
+}
+
+h2{
+    background-color: yellow;
+}
+
+h3{
+    background-color: orange;
+}
+
+p{
+    background-color: cyan;
+}
+
+ol{
+    background-color: magenta;
+}
+
+li{
+    background-color: brown;
+}
+
+body{
+    background-color: grey;
+}
+
+em{
+    background-color: greenyellow;
+    /*width 50px*/
+}
+
+strong{
+    background-color: greenyellow;
+    margin: 5px;
+}
+
+.inline-test{
+    display:inline-block;
+}
